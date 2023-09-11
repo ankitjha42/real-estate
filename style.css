@@ -1,0 +1,538 @@
+.Home_pge{
+    background-color: rgb(245, 245, 245);
+    
+}
+.navbar{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-size: xx-large;
+padding-top:15px;
+}
+.dream_text{
+     padding-left:75px ;
+}
+.dream_textdown{
+    color: rgba(199, 200, 200, 0.978);
+    padding-left: 75px ;
+    font-family: cursive;
+}
+.buy a{
+     padding-left:150px ;
+     text-decoration: none;
+     color: black;
+}
+.sell a{
+     padding-left:150px  ;
+     text-decoration: none;
+     color: black;
+}
+.about a{
+     padding-left:150px  ;
+     text-decoration: none;
+     color: black;
+}
+.properties a{
+     padding-left:150px  ;
+     text-decoration: none;
+     color: black;
+     
+}
+.contactu a{
+    
+    background-color:rgb(72, 106, 141) ;
+    position: relative;
+    left: 150px;
+    height: 45px;
+    color: white;
+    border-radius:5%;
+    text-decoration: none;
+}
+.main_page{
+    display: flex;
+}
+.discover{
+    font-size: 85px;
+    font-family: 'Ubuntu', sans-serif;
+    padding-left: 74px;
+    padding-top: 100px;
+}
+.working{
+    padding-top: 75px;
+    padding-left: 75px;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(199, 200, 200, 0.978);
+}
+.search{
+    display: flex;
+}
+.fa-solid{
+    font-size: 25px;
+    margin-top:25px ;
+    position: relative;
+    left: 80px;
+    top: 12px;
+    color:  rgb(72, 106, 141) ;
+}
+.location{
+    margin-top: 27px;
+    margin-left: 58px;
+    padding-left: 25px;
+    padding-right: 200px;
+    width: 200px;
+    height: 40px;
+    font-size: larger;
+    
+}
+.search_bar {
+    background-color:rgb(72, 106, 141) ;
+    margin-top: 28px;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+   
+    font-family: 'Ubuntu', sans-serif;
+    border: 7%;
+    position: relative;
+    right: 80px;
+    top: 5px;  
+    text-decoration: none;
+} 
+
+.search_bar a{
+    text-decoration: none;
+    color: white;
+}
+.review{
+    padding-top: 25px;
+    padding-left: 110px;
+    display: flex;
+}
+.ankit
+{
+     border-radius:50% ;
+     height: 40px;
+     border-style: solid;
+     border-width: 5px;
+     border-color:rgb(72, 106, 141) ;
+}
+.abhimanyu{
+    border-radius: 50%;
+    height: 39px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:rgb(72, 106, 141) ;;
+    position: relative;
+    right:15px;
+}
+.harsh{
+    border-style: solid;
+    border-radius: 50%;
+    height: 40px;
+    border-width: 5px;
+    border-color:rgb(72, 106, 141) ;
+    position: relative;
+    right:30px;
+}
+.meet{
+    color:rgb(72, 106, 141) ;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 14.5px;
+}
+.homepic{
+    height: 645px;
+    width: 880px;
+    position: relative;
+    left: 15px;
+    
+}
+.discount{
+    border-style: none;
+    width: 100px;
+    background-color: aliceblue;
+    position: relative;
+    bottom: 650px;
+    left: 795px;
+    text-align: center;
+
+}
+.add{
+   background-color: black;
+}
+.main_page2{
+    display: flex;
+}
+.apartment{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: 75px;
+    padding-left: 70px;
+}
+.work{
+    color: white;
+    font-size: 25px;
+    font-family: 'Ubuntu', sans-serif;
+    padding-left: 70px;
+
+}
+.villaa{
+    height: 325px;
+    padding-left: 70px;
+}
+.villa_detail{
+    border-style: none;
+    border-radius: 2%;
+    width: 300px;
+    height: 30px;
+    position: relative;
+    left: 50px;
+    bottom: 30px;
+    
+}
+.back{
+    background-color: rgb(182, 187, 158);
+}
+.aston{
+    color: black;
+    position: relative;
+    left:10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 35px;
+    
+    
+}
+.you{
+    position: relative;
+    left: 10px;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.building{
+    padding-left: 80px;
+    height: 500px;
+    width: 500px;
+    padding-top: 90px;
+}
+.fa-regular{
+    font-size: 75px;
+    position: relative;
+    right: 285px;
+    bottom: 250px;
+    color: white;
+}
+.leftwork{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 100px;
+
+}
+.rent{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.big{
+    padding-left: 15px;
+}
+.age{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    top: 15px;
+}
+.when{
+    padding-left:15px ;
+}
+.most
+{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    top: 30px;
+   
+}
+.majority{
+    padding-left:15px ;
+}
+.except{
+    padding-left:15px ;
+}
+.book a{
+    border-style: none;
+    height: fit-content;
+    background-color: rgb(72, 106, 141) ;
+    border-radius: 2%;
+    color: white;
+    position: relative;
+    top: 50px;
+    
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    padding-right: 2px;
+}
+.proj{
+    background-color: rgb(245, 245, 245);
+}
+.year{
+    display: flex;
+}
+.projects{
+    padding-top: 40px;
+    padding-left: 70px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 55px;
+}
+.explore{
+    font-size: large;
+    color: rgba(199, 200, 200, 0.978);
+    padding-left: 680px;
+    padding-top: 40px;
+}
+.explore_bar a{
+    text-decoration: none;
+    color:  rgb(72, 106, 141) ;
+}
+.explore_bar{
+    padding-top: 15px;
+}
+.main_page3{
+    display: flex;
+}
+.bhoot{
+    height: 300px;
+    
+    padding-left: 72px;
+    padding-top: 50px;
+}
+.all{
+    border-style: none;
+    background-color: rgb(0, 12, 21);
+    border-radius: 2%;
+    width: 206px;
+    height: 70px;
+    position: relative;
+    left: 190px;
+    bottom: 40px;
+    box-shadow:5px 10px   0px 0px rgba(0, 0, 0, 0.222) ;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+.dawson
+{
+    font-family: 'Ubuntu', sans-serif;
+    
+    width:fit-content;
+    padding-left: 50px;
+}
+
+.address{
+    color:white;
+    padding-top: 5px;
+    
+}
+.price{
+    display: flex;
+    padding-top: 8px;
+}
+.detail{
+    border-style: none;
+    background-color: rgb(72, 106, 141)  ;
+    
+    padding-right: 2px;
+    position: relative;
+    left: 90px;
+}
+.detail a{
+    text-decoration: none;
+    color: rgb(103, 4, 4);
+}
+.lux{
+    height: 300px;
+    
+    padding-left: 72px;
+    padding-top: 50px;
+}
+.family{
+    height: 300px;
+    width: 300px;
+    
+    padding-left: 72px;
+    padding-top: 50px;
+}
+.alls{
+    border-style: none;
+    background-color: rgb(0, 12, 21);
+    border-radius: 2%;
+    width: 206px;
+    height: 70px;
+    position: relative;
+    left: 120px;
+    bottom: 40px;
+    box-shadow:5px 10px   0px 0px rgba(0, 0, 0, 0.222) ;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+
+}
+.abc{
+  background-color: black;
+  display: flex;
+}
+.house{
+    display: flex;
+}
+.fa-house {
+    padding-top: 25px;
+    font-size: 50px;
+}
+.house_text{
+    color: white;
+    padding-left: 90px;
+    padding-top: 90px;
+    font-size: larger;
+    font-family: 'Ubuntu', sans-serif;
+}
+.adress{
+    color: white;
+    padding-left: 80px;
+    padding-top: 35px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.social{
+    display: flex;
+    position: relative;
+    right: 5px;
+}
+.insta{
+    
+   
+   margin-left: 80px;
+   margin-top: 35px;
+   border-radius:50%;
+   height: 40px;
+}
+.twit{
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 8px;
+}
+.git{
+    border-radius: 50%;
+    height: 40px;
+    margin-top: 35px;
+    margin-left: 8px;
+}
+.link{
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 35px;
+    margin-left: 8px;
+    background-color: white;
+}
+.gmail{
+    height: 40px;
+    border-radius: 2rem 2rem;
+    margin-top: 35px;
+    position: relative;
+    right: 8px;
+}
+.footerright{
+    display: flex;
+    
+    
+}
+.feature{
+    color: white;
+    gap: 55px;
+    color: white;
+    padding-left: 500px;
+    margin-top: 70px;
+    margin-right: 70px;
+    font-size: xx-large;
+    font-family: 'Ubuntu', sans-serif;
+}
+.service{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+.resource{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+.contactus{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.aboutus{
+    color: white;
+    margin-top: 70px;
+    font-size: xx-large;
+    font-family: 'Ubuntu', sans-serif;
+}
+.head2 a{
+    color: white;
+    text-decoration: none;
+}
+.blog{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.pricing{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.FAQ{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.contact{
+    color: white;
+    margin-top: 70px;
+    font-size: xx-large;
+    padding-left: 70px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.locate{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.email{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.telephone{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.line{
+    font-size: 1px;
+}
+.final{
+    background-color: black;
+    color: white;display: flex;
+    font-size: large;
+    font-family: 'Ubuntu', sans-serif;
+}
+.term{
+    color: white;
+    padding-left: 620px;
+}
+.whatever{
+    color: white;
+    padding-left: 55px;
+}
